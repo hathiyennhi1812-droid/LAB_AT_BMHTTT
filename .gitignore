@@ -1,0 +1,12 @@
+*.vmdk
+*.vmem
+*.vmsn
+*.vmx
+*.vmxf
+*.nvram
+*.vmsd
+*.lck/
+*.log
+*.scoreboard
+*.iso
+~$*.docx
